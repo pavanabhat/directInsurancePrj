@@ -2,7 +2,7 @@
 Technical test
 
 
-1. Maven Project (checkCover) has been created with cucumber and junit frameworks. Tests are run using Selenium Webdriver on Chrome.
+1. Maven Project (checkCover) has been created with cucumber and junit libraries. Tests are run using Selenium Webdriver on Chrome.
 2. Files in the project:
 
 Gherkin test cases - checkCover/src/test/resources/features/HomePage.feature
