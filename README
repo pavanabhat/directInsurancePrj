@@ -1,0 +1,16 @@
+# directInsurancePrj
+Technical test
+
+
+1. Maven Project has been created with cucumber and junit frameworks. Tests are run using Selenium Webdriver on Chrome.
+2. Files in the project:
+
+Gherkin test cases - checkCover/src/test/resources/features/HomePage.feature
+TestRunner class - checkCover/src/test/java/testRunners/TestRunnerHomePage.java
+StepDefinition class -  checkCover/src/test/java/stepDefinitions/StepDefHomePage.java
+Page object class - checkCover/src/test/java/pageObjects/HomePage.java
+Base class - checkCover/src/test/java/common/BaseTest.java
+configs - checkCover/src/test/java/configs/config.properties
+
+3. Test run report - checkCover/reports/AcceptanceTestReport.html
+
